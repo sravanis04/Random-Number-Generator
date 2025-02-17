@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: verdana;
+}
+#myButton{
+    font-size: 3em;
+    border-radius: 5px;
+    padding: 5px 25px;
+    background-color: azure;
+    cursor: pointer;
+}
+.Labels{
+    font-size: 3em;
+}
